@@ -1,0 +1,46 @@
+body {
+  background-color: rgba(0, 0, 255, 0.393);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+  background: linear-gradient(135deg, #0d6efd, #0b5ed7);
+}
+
+.card {
+  border: none;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.form-control:focus {
+  border-color: #0d6efd;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #0d6efd, #0b5ed7);
+  border: none;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+/* Estilos para el cuestionario sin usar modificadores forzados */
+#contenedorOpciones .btn {
+  white-space: normal;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  text-align: left;
+  padding: 10px 12px;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  display: block;
+  width: 100%;
+}
+
+#textoPregunta {
+  white-space: normal;
+  word-wrap: break-word;
+  line-height: 1.4;
+}

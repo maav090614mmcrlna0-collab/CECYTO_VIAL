@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "categoria": "Exceso de Velocidad",
+    "articulo": "Art. 45",
+    "descripcion": "Exceder el límite de velocidad en vías primarias o zonas escolares.",
+    "multa": "10 a 20 UMA",
+    "icono": "bi-speedometer2"
+  },
+  {
+    "id": 2,
+    "categoria": "Uso del Celular",
+    "articulo": "Art. 132",
+    "descripcion": "Sostener o manipular dispositivos móviles mientras se conduce.",
+    "multa": "30 a 35 UMA",
+    "icono": "bi-phone-vibrate"
+  },
+  {
+    "id": 3,
+    "categoria": "Alcoholímetro",
+    "articulo": "Art. 88",
+    "descripcion": "Conducir bajo el influjo del alcohol o sustancias psicoactivas.",
+    "multa": "Arresto de 24 a 36 hrs",
+    "icono": "bi-shield-exclamation"
+  },
+  {
+    "id": 4,
+    "categoria": "Uso de Cinturón",
+    "articulo": "Art. 110",
+    "descripcion": "No portar el cinturón de seguridad el conductor o pasajeros.",
+    "multa": "5 a 10 UMA",
+    "icono": "bi-person-workspace"
+  }
+]
